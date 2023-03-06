@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello world, hello git!do your best
+=======
+hello world, hello git! hot-fix
+>>>>>>> hot-fix
 hello world, hello git!
 hello world, hello git!
 hello world, hello git!
